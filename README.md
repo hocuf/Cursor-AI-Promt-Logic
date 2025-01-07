@@ -5,16 +5,15 @@ A comprehensive guide to maximizing your development workflow with Cursor AI.
 ## 📑 Table of Contents
 
 1. [Key Features](#key-features)
-2. [Getting Started with Project Planning](#getting-started-with-project-planning)
-3. [Development Workflow](#development-workflow)
-4. [UI Development Resources](#ui-development-resources)
-5. [Best Practices](#best-practices)
-6. [Advanced Tips](#advanced-tips)
-7. [PRD Development](#prd-development)
-8. [Using Cursor AI for PRD Development](#using-cursor-ai-for-prd-development)
-9. [PRD Maintenance and Updates](#prd-maintenance-and-updates)
-10. [Quality Assurance for AI-Generated Code](#quality-assurance-for-ai-generated-code)
-11. [Contributing to Cursor AI Guide](#contributing-to-cursor-ai-guide)
+2. [Product Requirements Document (PRD) Development](#product-requirements-document-prd-development)
+   - [Understanding PRD Components](#understanding-prd-components)
+   - [PRD Development Process](#prd-development-process)
+   - [Using Cursor AI for PRD Development](#using-cursor-ai-for-prd-development)
+   - [PRD Maintenance and Updates](#prd-maintenance-and-updates)
+3. [Best Practices](#best-practices)
+4. [Advanced Tips](#advanced-tips)
+5. [Quality Assurance for AI-Generated Code](#quality-assurance-for-ai-generated-code)
+6. [Contributing to Cursor AI Guide](#contributing-to-cursor-ai-guide)
 
 ## 🎯 Key Features
 
