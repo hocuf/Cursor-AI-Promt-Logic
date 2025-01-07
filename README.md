@@ -10,6 +10,11 @@ A comprehensive guide to maximizing your development workflow with Cursor AI.
 4. [UI Development Resources](#ui-development-resources)
 5. [Best Practices](#best-practices)
 6. [Advanced Tips](#advanced-tips)
+7. [PRD Development](#prd-development)
+8. [Using Cursor AI for PRD Development](#using-cursor-ai-for-prd-development)
+9. [PRD Maintenance and Updates](#prd-maintenance-and-updates)
+10. [Quality Assurance for AI-Generated Code](#quality-assurance-for-ai-generated-code)
+11. [Contributing to Cursor AI Guide](#contributing-to-cursor-ai-guide)
 
 ## 🎯 Key Features
 
